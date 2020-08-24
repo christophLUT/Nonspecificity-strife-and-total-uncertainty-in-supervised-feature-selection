@@ -4,10 +4,10 @@ Matlab Code files strife, nonspecificity and total uncertainty for supervised fe
 1) Artificial_Examples_and_Feature_Selection
 Contains the three artificial examples from the paper manuscript "Nonspecificity, strife and total uncertainty in supervised feature selection" and shows the function call for the functions "FSstrifePoss", "FSnonspecificityPoss", and "FStotaluncertaintyPoss"
 
-2) - 4) "FSstrifePoss", "FSnonspecificityPoss", "FStotaluncertaintyPoss"
+2), 3), 4) "FSstrifePoss", "FSnonspecificityPoss", "FStotaluncertaintyPoss"
 Functions that conduct the feature ranking (filter method) for supervised feature selection. The output are the feature ranking and the scores that represent the feature relevance of each feature. These are the functions deployed by someone in order to conduct feature selection on his/her classification data set.
 
-5) - 7) "strifePoss", "nonspecificityPoss", "totalUncertaintyPoss"
+5), 6), 7) "strifePoss", "nonspecificityPoss", "totalUncertaintyPoss"
 Subfunctions called within the functions 2), 3) or 4) that include the calculation of ucnertainty using similarity values. These functions are called within the functions 2) to 4) and do not need to be deployed by the user.
 
 8) "maxminscal"
