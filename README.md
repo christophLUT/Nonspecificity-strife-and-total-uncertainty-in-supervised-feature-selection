@@ -1,4 +1,4 @@
-# Nonspecificity-strife-and-total-uncertainty-in-supervised-feature-selection
+# Nonspecificity, strife, and total uncertainty in supervised feature selection
 Matlab Code files for the filter methods (for feature ranking) called strife, nonspecificity and total uncertainty for supervised feature selection in the context of classification. Includes also three articial examples. 
 
 **If you use the codes, please be so kind to cite the related open-access (=free) journal article:**
