@@ -10,7 +10,7 @@ Lohrmann, C, Luukka, P., 2022. *Nonspecificity, strife and total uncertainty in 
 A short description of the files contained:
 
 
-- "Artificial_Examples_and_Feature_Selection"
+- `Artificial_Examples_and_Feature_Selection`
 Contains the three artificial examples from the paper manuscript "Nonspecificity, strife and total uncertainty in supervised feature selection" and shows the function call for the functions "FSstrifePoss", "FSnonspecificityPoss", and "FStotaluncertaintyPoss"
 
 - "FSstrifePoss", "FSnonspecificityPoss", "FStotaluncertaintyPoss"
