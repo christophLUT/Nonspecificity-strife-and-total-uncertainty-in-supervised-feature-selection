@@ -8,10 +8,11 @@ Lohrmann, C, Luukka, P., 2022. *Nonspecificity, strife and total uncertainty in 
 
 
 A short description of the files contained:
-
+<br />
+<br />
 
 - `Artificial_Examples_and_Feature_Selection`: <br />
-Contains the three artificial examples from the paper manuscript "*Nonspecificity, strife and total uncertainty in supervised feature selection*" and shows the function call for the functions `FSstrifePoss`, `FSnonspecificityPoss`, and `FStotaluncertaintyPoss` <br />
+Contains the three artificial examples from the paper manuscript "*Nonspecificity, strife and total uncertainty in supervised feature selection*" and shows the function call for the functions `FSstrifePoss`, `FSnonspecificityPoss`, and `FStotaluncertaintyPoss`
 
 - `FSstrifePoss`, `FSnonspecificityPoss`, `FStotaluncertaintyPoss`: <br />
 Functions that conduct the feature ranking (filter method) for supervised feature selection. The output are the feature ranking and the scores that represent the feature relevance of each feature. These are the functions deployed by someone in order to conduct feature selection on his/her classification data set.
