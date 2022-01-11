@@ -1,5 +1,12 @@
 # Nonspecificity-strife-and-total-uncertainty-in-supervised-feature-selection
-Matlab Code files strife, nonspecificity and total uncertainty for supervised feature selection in the context of classification. Includes also three articial examples. Files are related to the manuscript "Nonspecificity, strife and total uncertainty in supervised feature selection" from Christoph Lohrmann, PhD, and Pasi Luukka, DSc.
+Matlab Code files strife, nonspecificity and total uncertainty for supervised feature selection in the context of classification. Includes also three articial examples. 
+
+If you use the codes, please be so kind to cite the related open-access (=free) journal article:
+
+Lohrmann, C, Luukka, P., 2022. Nonspecificity, strife and total uncertainty in supervised feature selection, Engineering Applications of Artificial Intelligence 109(94), doi: https://doi.org/10.1016/j.engappai.2021.104628
+
+A short description of the files contained:
+
 
 - "Artificial_Examples_and_Feature_Selection"
 Contains the three artificial examples from the paper manuscript "Nonspecificity, strife and total uncertainty in supervised feature selection" and shows the function call for the functions "FSstrifePoss", "FSnonspecificityPoss", and "FStotaluncertaintyPoss"
